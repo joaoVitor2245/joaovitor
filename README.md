@@ -1,2 +1,2 @@
-#iniciante do curso de programação do alura
+#iniciante do curso de programação do alura,
 my name is john.
